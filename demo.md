@@ -19,3 +19,5 @@ Top 5 Recommended Movies:
 3. Thor: Ragnarok (Similarity Score: 0.74)
 4. The Fifth Element (Similarity Score: 0.72)
 5. Men in Black (Similarity Score: 0.68)
+
+## Salary Expectations: 2400$ / month

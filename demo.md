@@ -1,7 +1,5 @@
-# Demo Link: https://youtu.be/qv3aN04AKrw
-
 # Content-Based Recommendation System
-
+## Demo Link: https://youtu.be/qv3aN04AKrw
 ## Overview
 This is a simple content-based recommendation system that suggests movies based on a user's text input. It uses TF-IDF vectorization and cosine similarity to find the most relevant movies.
 
@@ -11,10 +9,10 @@ This is a simple content-based recommendation system that suggests movies based 
    ```bash
    pip install -r requirements.txt
 
-# Running the Code
+## Running the Code
 Run the script with a user query: python recommend.py "I love thrilling action movies set in space, with a comedic twist."
 
-# Example Output
+## Example Output
 Top 5 Recommended Movies:
 1. Guardians of the Galaxy (Similarity Score: 0.85)
 2. Star Wars: The Force Awakens (Similarity Score: 0.78)
